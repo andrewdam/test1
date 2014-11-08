@@ -7,6 +7,7 @@ public class github
 	{
 		// TODO Auto-generated method stub
 		System.out.println("BLARG");
+		System.out.println("TEST1");
 	}
 
 }
